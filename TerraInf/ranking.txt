@@ -1,0 +1,5 @@
+denisdois: 2050 
+denis: 2000 
+Fulano: 0 
+Ciclano: 0 
+Beltrano: 0 
